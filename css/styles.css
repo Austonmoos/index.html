@@ -18,11 +18,11 @@ ul {
 }
 .aka {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  color: brown;
+  color: rgb(195, 237, 44);
 }
 .first-sector {
   text-align: right;
-  color: bisque;
+  color: rgb(131, 17, 17);
   padding-top: 50px;
   padding-right: 50px;
   padding-left: 50px;

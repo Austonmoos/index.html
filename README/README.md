@@ -21,6 +21,6 @@ HTML,CSS and JAVASCRIPT
 4. Scroll down the site and learn about me!
 
 ### Known bugs
-
+Some links wont load. Might crash if WIFI is slow. 
 
 Copyright (c) _Aug 21, 2022_ _Auston Moos_
