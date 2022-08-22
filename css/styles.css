@@ -1,18 +1,20 @@
-h1 {
-    color: blue;
-    text-align: center;
 }
 
-h2 {
-  font-style: italic;
+.third-sector {
+  box-sizing: border-box;
   text-align: center;
 }
 
-p {
-  font-family: sans-serif;
+.third-sector p {
+  color: bisque;
+padding-top: 30%;
 }
 
-ul {
-  font-size: 20px;
-  line-height: 30px;
+.third-sector img {
+padding-top: 5%;
+padding-left: 5%;
+padding-bottom: 0%;
+float:left;
 }
+
+.fourth-sector {
